@@ -1,0 +1,28 @@
+* {
+    background-color: darkgray;
+    color: aqua;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+       padding: 20px 20px 20px 20px;
+}
+
+.links {
+    text-align: center;
+    margin: 12px 12px 12px 12px;
+
+}
+
+.link {
+    color: red;
+}
+
+.link.pizza-caprese {
+    color: blue;
+}
